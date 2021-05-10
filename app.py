@@ -111,8 +111,8 @@ def main():
       slope, ca, thal)
       st.success('Model has predicted {}'.format(result))
     if st.button("About"):
-      st.subheader("Developed by Deepak Moud")
-      st.subheader("Head , Department of Computer Engineering")
+      st.subheader("Developed by Suyash Sharma")
+      st.subheader("Department of Computer Engineering")
 
 if __name__=='__main__':
   main()
